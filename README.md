@@ -1,3 +1,3 @@
 # Github-Profile-Generator
 
-This application was built with JavaScript and Node. It uses the inquirer npm to prompt users through the terminal. You can enter your favorite color and GitHub username and a customized profile will be generated. A call is made to the GitHub API to grab all the information for the profile.
+This application was built with JavaScript and Node. It uses the inquirer npm to prompt users through the terminal. You can enter your favorite color and GitHub username and a customized profile will be generated. A call is made to the GitHub API to grab all the information for the profile. You can view the application in action here: https://drive.google.com/open?id=1KY0BGvh4F_4f3pJ-qvgrEpuSev4_Ahn8
