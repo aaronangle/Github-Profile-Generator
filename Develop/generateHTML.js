@@ -163,6 +163,7 @@ function generateHTML(data) {
                background-color: ${colors[data.color].headerBackground};
                border-radius: 6px;
                margin: 20px;
+               color: white;
                padding: 50px;
             }
 
